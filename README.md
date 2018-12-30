@@ -1,2 +1,0 @@
-# PremiumBot
-Premium Bot
